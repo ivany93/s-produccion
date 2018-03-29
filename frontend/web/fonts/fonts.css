@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Conv_6551';
+	src: url('./future/6551.eot');
+	src: local('☺'), url('./future/6551.woff') format('woff'), url('./future/6551.ttf') format('truetype'), url('./future/6551.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_OfficinaSerifC-Bold';
+	src: url('officina/OfficinaSerifC-Bold.eot');
+	src: local('☺'), url('officina/OfficinaSerifC-Bold.woff') format('woff'), url('officina/OfficinaSerifC-Bold.ttf') format('truetype'), url('officina/OfficinaSerifC-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
